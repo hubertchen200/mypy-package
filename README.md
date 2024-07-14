@@ -1,1 +1,1 @@
-# mypy-package
+# hubertchen-package
